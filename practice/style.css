@@ -1,0 +1,35 @@
+.purple-box{
+    height: 417px;
+    width: 417px;
+    background-color: #c70cec ; 
+}
+.green-box{
+    height: 500px;
+    width: 500px;
+    background-color: #0cec17 ;  
+    display:inline-block
+}
+.yellow-box{
+    height: 100px;
+    width: 100px;
+    background-color: #ddec0c;
+    display: inline-block;
+}
+.orange-box{
+    height: 100px;
+    width: 100px;
+    background-color:orange;
+    display: inline-block;
+}
+.red-box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.blue-box{
+    height: 100px;
+    width: 100px;
+    background-color: lightseagreen;
+    display: inline-block;  
+}
